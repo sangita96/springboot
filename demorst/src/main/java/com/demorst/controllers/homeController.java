@@ -8,7 +8,7 @@ import com.demorst.dao.AlienrepoI;
 @Controller
 public class homeController {
 	@Autowired
-	AlienrepoI repo;
+	AlienrepoI repo;//testing
 	
 
 }
