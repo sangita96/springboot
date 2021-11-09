@@ -1,13 +1,13 @@
-package com.demoRest;
+package com.sptest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoRestApplication {
+public class SptestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoRestApplication.class, args);
+		SpringApplication.run(SptestApplication.class, args);
 	}
 
 }
